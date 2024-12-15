@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Stack Enchanted Books of the Same Kind",
+    "supported_formats": [
+      18,
+      26,
+      41,
+      48,
+      57,
+      61
+    ]
+  }
+}
